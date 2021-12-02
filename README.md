@@ -1,6 +1,6 @@
 # SecureStack GitHub Actions
 
-A GitHub Action to execute SecureStack application attack surface analysis an application.
+A GitHub Action to execute SecureStack secrets analysis on an application code repository.
 
 ```
 name: Example Workflow Using SecureStack Action
@@ -24,6 +24,10 @@ jobs:
           language: node
           flags: '--path . --debug'
 ```
+
+NOTE - to understand possible values for the action input `flags`, run the SecureStack cli locally:
+
+`$ bloodhound-cli code --help`
 
 ## Getting your SecureStack API Key
 
