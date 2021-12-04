@@ -1,5 +1,8 @@
-name: 'SecureStack Code Analysis'
-description: 'Execute SecureStack Code Analysis'
+name: 'SecureStack Application Composition Analysis'
+description: 'Scan your source code in real-time for vulnerable libraries & frameworks you are using. Supports Go, Python and Javascript.'
+branding:
+  icon: 'code'  
+  color: 'green'
 inputs:
   securestack_api_key:
     description: 'SecureStack API key - generate an API key at https://app.securestack.com'
