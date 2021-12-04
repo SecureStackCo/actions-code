@@ -1,6 +1,6 @@
 # SecureStack GitHub Actions
 
-A GitHub Action to execute SecureStack application composition analysis on an application code repository.  When you add this to GitHub Actions we will analyze your source code for vulnerable third party and open source libraries.  It's lik "software composition analysis" but only better!  This Action supports Go, Python and Javascript languages.  See below for what types of issues this action scans for and what files are required.
+A GitHub Action to execute SecureStack application composition analysis on an application code repository.  When you add this to GitHub Actions we will analyze your source code for vulnerable third party and open source libraries.  It's like "software composition analysis" but only better!  This Action supports Go, Python and Javascript languages.  See below for what types of issues this action scans for and what files are required.
 
 ```
 name: Example Workflow Using SecureStack Application Composition Analysis Action
