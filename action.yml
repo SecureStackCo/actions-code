@@ -1,5 +1,5 @@
 name: 'SecureStack Application Composition Analysis'
-description: 'Scan your source code in real-time for vulnerable libraries you are using'
+description: 'Scan your source code in real-time for vulnerable libraries & frameworks you are using. Supports Go, Python and Javascript.'
 branding:
   icon: 'code'  
   color: 'green'
