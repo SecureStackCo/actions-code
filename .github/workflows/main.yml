@@ -14,7 +14,7 @@ jobs:
         uses: SecureStackCo/actions-code@main
         with:
           securestack_api_key: ${{ secrets.SECURESTACK_API_KEY_SECRET }}
-          securestack_app_id: 'a9ad205b-d519-4a95-833d-304b6e82be21'
+          securestack_app_id: 'abb7fb5c-fa15-4baa-9dfd-3e77316f80a2'
           severity: critical
           language: node
           flags: '--path test/ --debug'
