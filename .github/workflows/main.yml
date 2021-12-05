@@ -17,4 +17,4 @@ jobs:
           securestack_app_id: 'a9ad205b-d519-4a95-833d-304b6e82be21'
           severity: critical
           language: node
-          flags: '--path ./ --debug'
+          flags: '--path test/ --debug'
