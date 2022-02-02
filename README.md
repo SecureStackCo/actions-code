@@ -22,7 +22,6 @@ jobs:
           securestack_app_id: ${{ secrets.SECURESTACK_APP_ID }}
           severity: critical
           language: node
-          flags: '--path . --debug'
 ```
 
 NOTE - to understand possible values for the action input `flags`, run the SecureStack cli locally:
