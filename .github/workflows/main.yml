@@ -17,4 +17,3 @@ jobs:
           securestack_app_id: ${{ secrets.SECURESTACK_APP_ID }}
           severity: critical
           language: node
-          flags: '--path test/ --debug'
