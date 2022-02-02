@@ -19,7 +19,7 @@ jobs:
         uses: SecureStackCo/actions-code@v0.1.0
         with:
           securestack_api_key: ${{ secrets.SECURESTACK_API_KEY }}
-          securestack_app_id: ${{ secrets.SECURESTACK_API_KEY }}
+          securestack_app_id: ${{ secrets.SECURESTACK_APP_ID }}
           severity: critical
           language: node
           flags: '--path . --debug'
