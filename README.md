@@ -65,7 +65,7 @@ ADDITIONAL NOTE - Make sure you change the `language: node` to whatever language
 
 ## Check out our other GitHub Actions:
 1. [SecureStack Secrets Analysis](https://github.com/marketplace/actions/securestack-secrets-analysis) - Scan your application for embedded api keys, credentials and senstive data.
-2. [SecureStack Web Vulnerability & Cloud Misconfiguration Analysis](https://github.com/marketplace/actions/securestack-application-composition-analysis) - Scan your running application url for cloud misconfigurations and web vulnerabilities.
+2. [SecureStack Web Vulnerability & Cloud Misconfiguration Analysis](https://github.com/marketplace/actions/securestack-web-vulnerability-analysis) - Scan your running application url for cloud misconfigurations and web vulnerabilities.
 3. [SecureStack Log4j Analysis](https://github.com/marketplace/actions/securestack-log4j-vulnerability-analysis) - Scan your application for Log4j/Log4Shell vulnerabilities.
 
 Made with 💜  by [SecureStack](https://securestack.com)
